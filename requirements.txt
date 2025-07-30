@@ -1,0 +1,14 @@
+tqdm
+matplotlib
+numpy
+pandas
+yfinance
+scipy
+streamlit
+blinker
+altair
+cachetools
+gitpython
+tenacity
+toml
+watchdog
